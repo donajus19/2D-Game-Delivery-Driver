@@ -1,7 +1,7 @@
 # 2D Game: Delivery Driver
 A 2D delivery driver game built for Windows, Mac or Linux.
 
-# 2D Game: Delivery Driver
+# Screenshot
 <img src="Delivery_driver.PNG">
 
 # References
