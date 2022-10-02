@@ -6,7 +6,7 @@ A 2D delivery driver game built for Windows, Mac or Linux.
 
 #Video
 <video width="320" height="240" controls>
-  <source src="delivery_driver_vid" type="video/mkv">
+  <source src="delivery_driver_vid.mkv" type="video/mkv">
 Your browser does not support the video tag.
 </video>
 
